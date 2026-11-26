@@ -1,0 +1,16 @@
+{
+  "app": {
+    "title": "WIFIM Digital Marketing",
+    "headerTitle": "WIFIM Digital Marketing",
+    "headerColor": "#0B4DB8",
+    "textColor": "white",
+    "statusBar": "transparent",
+    "leftButton": "back",
+    "actionBarHidden": true,
+    "hideIOSSafeAreaBottom": false,
+    "hideAndroidBottomNavigationBar": false
+  },
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": []
+}
